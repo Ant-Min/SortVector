@@ -1,3 +1,0 @@
-﻿  Source.cpp
-C:\Users\minun\source\repos\SortVector\SortVector\Source.cpp(46,46): error C2446: '==': no conversion from 'const char [13]' to 'unsigned int'
-C:\Users\minun\source\repos\SortVector\SortVector\Source.cpp(46,32): message : There is no context in which this conversion is possible
